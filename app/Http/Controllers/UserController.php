@@ -1,10 +1,10 @@
 <?php
 
-namespace App\Http\Controllers;
+namespace MtgTracker\Http\Controllers;
 
 use Illuminate\Http\Request;
 
-use App\Http\Requests;
+use MtgTracker\Http\Requests;
 
 class UserController extends Controller
 {

@@ -1,6 +1,6 @@
 <?php
 
-namespace App\Models;
+namespace MtgTracker\Models;
 
 use Illuminate\Database\Eloquent\Model;
 
