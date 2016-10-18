@@ -18,7 +18,7 @@ class Tournament extends Model
 	}
 
 	public function players() {
-		return $this->hasMany( '\MtgTracker\Models\Player', 'players', 'id' );
+		return $this->belongsToMany( '\MtgTracker\Models\Player', 'players', 'id' );
 	}
     //
 }
