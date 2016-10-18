@@ -6,7 +6,7 @@ use Illuminate\Http\Request;
 
 use MtgTracker\Http\Requests;
 
-class DraftPodController extends Controller
+class PodController extends Controller
 {
     /**
      * Display a listing of the resource.

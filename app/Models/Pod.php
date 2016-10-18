@@ -4,7 +4,7 @@ namespace MtgTracker\Models;
 
 use Illuminate\Database\Eloquent\Model;
 
-class DraftPod extends Model
+class Pod extends Model
 {
     //
 }
