@@ -12,5 +12,13 @@ class Tournament extends Model
 		'format',
 		'creator_id'
 	];
+
+	public function creator() {
+		return $this->belongsTo( '\MtgTracker\Models\User', 'creator_id', 'id' );
+	}
+
+	public function players() {
+		return $this->hasMany( '\MtgTracker\Models\Player', 'players', 'id' );
+	}
     //
 }
