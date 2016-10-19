@@ -1,0 +1,75 @@
+{
+  "Players": {
+    1: "Hans Kristian",
+    2: "Lars Martin",
+    3: "Martin",
+    4: "Trond",
+    5: "Hannah",
+    6: "Jim"
+  }
+}
+
+
+
+
+{
+  "round1": {
+    "matches": [
+      "player1": 1,
+      "player2": 2,
+
+
+    ]
+  }
+
+}
+
+Draft 1:
+Runde 1:
+Hans K - Lars Martin: 1-2
+Martin - Trond: 2-0
+Jim - Bye: 2-0
+
+Runde 2:
+Martin - Lars Martin: 2-1
+Jim - Trond: 2-0
+Hans K - Bye: 2-0
+
+Runde 3:
+Jim - Martin: 1-2-0
+Trond - Hans K: 2-1
+Lars Martin - Bye: 2-0
+
+
+Draft 2:
+Runde 1:
+Hans K - Lars Martin: 0-2
+Trond - Hannah: 2-1
+Martin - Bye: 2-0
+
+Runde 2:
+Martin - Trond: 2-0
+Lars Martin - Hannah: 2-0
+Hans K - Bye: 2-0
+
+Runde 3:
+Martin - Lars Martin: 2-0
+Trond - Hans K: 0-2
+Hannah - Bye: 2-0
+
+
+Draft 3:
+Runde 1:
+Trond - Hans Kristian: 1-2
+Jim - Johannes: 1-2
+Lars Martin - Martin: 0-2
+
+Runde 2:
+Johannes - Hans Kristian: 2-0
+Martin - Trond: 2-0
+Jim - Lars Martin: 2-1
+
+Runde 3:
+Johannes - Martin: X-X (0-0-3 ?)
+Jim - Hans Kristian: X-X (0-0-3 ?)
+Trond - Lars Martin: 0-2
